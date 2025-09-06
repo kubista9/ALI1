@@ -1,0 +1,33 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.7)  7 AUG 2025 22:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./notes.tex
+(notes.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-07-19>
+(C:\Users\RIB\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\RIB\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+Runaway argument?
+{amsmath\rule {\textwidth }{1pt} 
+! Paragraph ended before \@fileswith@ptions was complete.
+<to be read again> 
+                   \par 
+l.3 
+    
+? 
